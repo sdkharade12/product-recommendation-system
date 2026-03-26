@@ -1,0 +1,15 @@
+# Ignore datasets
+data/
+*.csv
+*.gz
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
